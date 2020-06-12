@@ -1,5 +1,77 @@
 @media only screen and (max-width: 600px) {
 
+  h4,
+  .h4 {
+    font-family: 'Assistant', sans-serif;
+    font-size: 18px;
+    line-height: 26px;
+    color: #4D4D4D;
+    font-weight: 400;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+
+  h5,
+  .h5 {
+    font-family: 'Assistant', sans-serif;
+    font-size: 18px;
+    line-height: 26px;
+    color: #4D4D4D;
+    font-weight: 400;
+  }
+
+  .link {
+
+    font-family: 'Assistant', sans-serif;
+    font-size: 18px;
+    line-height: 26px;
+    color: #4D4D4D;
+    font-weight: 700;
+
+  }
+
+  .menu{
+    font-family: 'Assistant', sans-serif;
+    font-size: 20px;
+    line-height: 26px;
+    color: #4D4D4D;
+    margin-top: 10px;
+    font-weight: 400;
+    font-weight: 700;
+    text-align: right;
+  }
+
+  p {
+
+    font-family: 'Assistant', sans-serif;
+    font-size: 18px;
+    line-height: 26px;
+    color: #4D4D4D;
+    margin-top: 30px;
+    font-weight: 400;
+
+  }
+
+div {
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+
+  .title{
+    font-family: 'Assistant', sans-serif;
+    font-size: 24px;
+    line-height: 26px;
+    color: #4D4D4D;
+    margin-top: 10px;
+    margin-bottom: -15px;
+    font-weight: 700;
+  }
+
+  .margintoparticle {
+    margin-top: 10px;
+  }
+
+
   .background_header {
     background-color: #ffffff;
     height: 160px;
@@ -7,7 +79,7 @@
 
   .container_header {
     display: grid;
-    width: 350px;
+    width: 320px;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
     grid-template-rows: auto;
     grid-column-gap: ;
@@ -18,7 +90,7 @@
 
   .container_article {
     display: grid;
-    width: 350px;
+    width: 320px;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
     grid-template-rows: auto;
     grid-column-gap: ;
